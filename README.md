@@ -2,7 +2,7 @@
 
 Fortify Organizer is a tool for automating the scanning, analysis, and uploading of Fortify scan results to SSC (Software Security Center). This project simplifies the process of running Fortify scans and ensures the results are uploaded to SSC efficiently.
 
-![](https://your-image-link.com/screenshot-organizer.png)
+![](https://github.com/kajun1337/Fortify-Organizer/blob/main/fortify%20organizer.png)
 
 
 Clone my-project from github
