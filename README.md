@@ -5,25 +5,6 @@ Fortify Organizer is a tool for automating the scanning, analysis, and uploading
 ![](https://github.com/kajun1337/Fortify-Organizer/blob/main/fortify%20organizer.png)
 
 
-Clone my-project from github
-
-```bash
-  git clone https://github.com/kajun1337/SWEET32-vulnerability-scanner.git
-  
-```
-Write the IP addresses in the "ip-list.txt file" as follows
-```bash
- 176.103.130.134
- 37.252.185.229
- 206.189.215.75
-  
-```
-Run my bash script with sudo
-
-```bash
-  sudo bash SWEET32 checker v0.1.sh
-  
-```
 
 ## Badges
 
