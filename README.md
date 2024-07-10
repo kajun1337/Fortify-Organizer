@@ -4,7 +4,8 @@ Fortify Organizer is a tool for automating the scanning, analysis, and uploading
 
 ![](https://github.com/kajun1337/Fortify-Organizer/blob/main/fortify%20organizer.png)
 
-
+## Executable File
+https://github.com/kajun1337/Fortify-Organizer/releases/tag/v1.0
 
 ## Badges
 
